@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/qtwyeuritoiy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://qtwyeuritoiy.github.io
+  * I am qtwyeuritoiy (https://keybase.io/qtwyeuritoiy) on keybase.
+  * I have a public key with fingerprint CA86 541E 3D4D 55DE 9199  2B50 3C20 5C5D 1FBF 5A43
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101826870e354c8d60fc193948027b3634510e3ee584e2eec35c56e1abb36a548550a",
+            "fingerprint": "ca86541e3d4d55de91992b503c205c5d1fbf5a43",
+            "host": "keybase.io",
+            "key_id": "3c205c5d1fbf5a43",
+            "kid": "0101826870e354c8d60fc193948027b3634510e3ee584e2eec35c56e1abb36a548550a",
+            "uid": "ba60625b6f204f1514c8b8ccb75fee19",
+            "username": "qtwyeuritoiy"
+        },
+        "revoke": {
+            "sig_ids": [
+                "2a98c5ace2b601fdad331effe080493a3a94de0bef05416fa62c2663d0f4762f0f"
+            ]
+        },
+        "service": {
+            "hostname": "qtwyeuritoiy.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1497624972,
+    "expire_in": 157680000,
+    "prev": "952beae2c83d9ee8970e80da30985162320f3d372f5bc9ac5e912f6aaeb9bce7",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMJ1AnicrZJbbBRVHMa3rNBSCzUqYEADmYZETNucOWfO2ZmFxCZoMBoNl1TSimzO
+5X92J9vd2c7ObtlAfTIBhACGxGiCGJWgXMJFGjQRibblooBAk1qtvGh8awzZJkYl
+sfFM1TcenYeZzJzv+51vvvMfXZBMNDe8Pd2U23hjpK/h2vCcSqJnbX3vdksEqmal
+t1t5mH1An4JylMn7ykpbyEa2i5mbQkCoI13FkJa2RzzHRTglCCMOtc0aAHUdwACS
+UEkZ2FyYRU4dl1LErXZL+8UshKXQL0YGK7nLqGMDUY6iVIFnex4WFBGJkfErWwtN
+uUOMMReUY4cJJ3gZOv3AfDMvmdl499H/z7krszjBGWKYCqYxcrRNbYMUrpQiRTWA
+7cXCMoRFXgCj7o8GalAJ/Sjwa9ZguxVCNchD3G3Zz5rgZSv9ioW550rKJWDBkK0V
+V4TYoDUgFzke4YR7jgIkQCPTFNOcYYkZIwppJ8WwRtp61bDNrlVfzsLjpu6ToDPr
+R7mK+Ke5UhhEgQz6jCYXRaVyOs4X1UqxaQBE5l9cRvhFZU7MOKoQlv2gaKVto5SR
+H/NtxzMRzA23W7Ct5IeQ8WMFTTEXmSveB6oG6VEsgAOWLlEegOuZ83CR4gR5LrUZ
+JhhpokgKayqkxyU1k4A14xyEJySkrPgH+4uBYbsmJ88apumwyKNKCNbg8JdbHkg0
+NCfmzZ0Tj3Kief5D/w34xFjjzKq27undOFn/6YnEobbf8m/snNj3x2BhfGXqw/lT
+b3bk1RefL75Q1e+sL4STXdevfvrRz/t3rW46U798nG8arW+cqSePvndvyaJ703df
+mKq8vu5jP9mybMVoAZY//sjtQ1//OPP0xYeHNq8599ezD56W4wuL3x3fOpk79gHe
+Km51vXZq28UX76rGgaur2tb0PvfWZ0PzOpJzLw/9/v7N3eTsyJ11a1/WN/qe//P7
+r07dvN7V09TZv3OydmXPuYO/Hhs7QZ/65tGXFhw4kL20+M4vHYve3TF28PCWC+eX
+9Hb2rGil+0/Slg0Njz2jjlxrmSo0tn473r387PkqXzixp/eTkaVnfhju3oyfrB5e
+3dr/N+FRYb8=
+=k+TK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/qtwyeuritoiy
+
+==================================================================
