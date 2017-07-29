@@ -43,5 +43,7 @@ body{
   color:#fff;
   text-align:center;
   font-size:large;
+}
+.with_padding{
   padding:20px;
 }
