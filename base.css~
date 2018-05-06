@@ -1,49 +1,62 @@
 @font-face {
-  font-family:'open_sans';
+  font-family: 'open_sans';
   src:url('OpenSans-Light-webfont.woff') format('woff');
-  font-weight:light;
-  font-style:normal;
+  font-weight: light;
+  font-style: normal;
 }
 @font-face {
-  font-family:'open_sans';
-  src:url('OpenSans-Semibold-webfont.woff') format('woff');
-  font-weight:bold;
-  font-style:normal;
+  font-family: 'open_sans';
+  src: url('OpenSans-Semibold-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
 }
 body{
   font-family:open_sans;
   padding: 0;
   margin: 0;
+  color: #000;
+}
+a{
+  color: #444;
+}
+s{
+  color: #777;
 }
 .boundary{
-  width:90%;
-  max-width:700px;
-  margin:auto;
+  width: 90%;
+  max-width: 700px;
+  margin: auto;
 }
 .equidistant{
-  display:flex;
+  display: flex;
   flex-wrap: wrap;
 }
 .title{
-  border-style:solid;
-  border-width:0 0 1px 0;
-  border-color:black;
-  text-align:center;
-  padding-bottom:12px;
+  text-align: center;
+  margin: 4%;
+  padding-bottom: 12px;
   font-size: x-large;
   font-weight: bold;
+  text-decoration: underline;
 }
 .black_bar{
-  background-color:#2e2e2e;
-  width:100%;
-  margin:auto;
+  background-color: #2e2e2e;
+  width: 100%;
+  margin: auto;
 }
 .in_black_bar{
   margin: auto;
-  color:#fff;
-  text-align:center;
-  font-size:large;
+  color: #fff;
+  text-align: center;
 }
 .with_padding{
-  padding:20px;
+  padding: 20px;
+}
+.quote{
+  border-style: solid;
+  border-width: 0 0 0 5px;
+  border-color: #bbb;
+  background-color: #eee;
+  padding: 12px;
+  font-style: italic;
 }

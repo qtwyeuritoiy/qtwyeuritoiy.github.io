@@ -11,12 +11,13 @@
 <div class="boundary equidistant">
 <a href="index.html" class="in_black_bar with_padding">home</a>
 <a href="about.html" class="in_black_bar with_padding">about</a>
-<a href="archive.html" class="in_black_bar with_padding">archive</a>
+<a href="archives.html" class="in_black_bar with_padding">archives</a>
+<a href="projects.html" class="in_black_bar with_padding">projects</a>
 <a href="alliances.html" class="in_black_bar with_padding">alliances</a>
 </div>
 </div>
 <div class="boundary">
-<p class="title">About</p>
+<p class="title">about microblog</p>
 <p>Oh, hi.<br>
 This is my personal blog, er... website, as I call.
 </p>
@@ -28,16 +29,28 @@ This is my personal blog, er... website, as I call.
 I may end up using those Static Site Generators, but I'm using this opportunity to learn deeply about HTML5 and CSS.
 </p>
 <p>Anyways, enjoy your micro-stay here.</p>
+<p class="title">Q&A</p>
+<p class="quote">Why another homemade website?</p>
+<p>tl;dr: Learning.</p>
+<p>... Okay, more context.<br/>
+I will use this blog for various posts like my project status, movie/music <s>fangirling</s> review, and my music, 3D model, etc. I'm a person with many hats.<br/>
+OK, enough bragging.</br>
+For everything I post, I need to know how to make it with HTML and CSS, even when I use a Static Site Generator(which is quite likely) because I will make one. And I would have to optimise it. This is a "microblog" for a reason.
+</p>
+<p class="quote">Why no JavaScript? I mean, you can't make most of the website without JS these days.</p>
+<p>Who even said that?</p>
+<p class="quote">Why the delay?</p>
+<p>Sorry, I'm lazy.</p>
+<p class="quote">Who are you anyway?</p>
+<p>tl;dr: A person.</p>
+<p>I'm a Korean student. I play <a href="https://lmms.io/">LMMS</a>, <a href="https://gimp.org/">GIMP</a>, <a href="https://developer.android.com/studio/index.html">Android Studio</a>, <a href="https://www.mozilla.org/en-US/firefox/">Firefox</a>, and (sometimes) <a href="https://blender.org/">Blender</a> on <a href="https://elementary.io/">elementaryOS</a>. I'm a kind of person that eats science news for breakfast, loves jokes about politics, wants to pet every cat in existence, and wants a Raspberry Pi for his birthday gift.</p>
 </div>
 <div class="black_bar">
 <p class="in_black_bar with_padding">
-Have issues with the site or its content? Discuss them on <a href="https://github.com/qtwyeuritoiy/qtwyeuritoiy.github.io/issues">Issue Tracker</a>.
+Have issues with the site or its content? Discuss them on <a class="in_black_bar" href="https://github.com/qtwyeuritoiy/qtwyeuritoiy.github.io/issues">Issue Tracker</a>.
 </p>
 <p class="in_black_bar with_padding">
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title" class="in_black_bar">microblog</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="qtwyeuritoiy.github.io" property="cc:attributionName" rel="cc:attributionURL" class="in_black_bar">Jihoon Kim</a>
- is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" class="in_black_bar">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Unless otherwise specified, contents in this site is licensed under CC BY-SA 4.0 international.
 </p>
 </div>
 </body>
